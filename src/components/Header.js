@@ -125,6 +125,7 @@ const NavMenu = styled.div`
         transform: scaleX(1);
         visibility: visible;
         opacity: 1 !important;
+        border-bottom: 1px solid rgba(75, 250, 250, 1);
       }
     }
   }

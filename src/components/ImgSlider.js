@@ -61,7 +61,6 @@ const Wrap = styled.div`
   &:hover {
     border-bottom: 1px solid rgba(75, 250, 250, 1);
     transition-duration: 10s;
-    overflow: visible;
   }
 
   img {
